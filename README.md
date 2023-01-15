@@ -62,30 +62,7 @@
 ## GitHub状态 
 
 
-### 仓库状态  
-<img src="https://github-readme-stats.vercel.app/api?username=NaruseMioShirakana&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NaruseMioShirakana&show_icons=true&count_private=true&hide_border=true" align="right"/>
 
-### 常用语言  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaruseMioShirakana&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
-
-
-## 没有其他的东西了
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NaruseMioShirakana&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
