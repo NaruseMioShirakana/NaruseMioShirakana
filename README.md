@@ -1,7 +1,7 @@
 ### <div align="center">这里是 纳鲁赛繆 · 尤梅米 · 希娜卡纳</div>  
   
 
-- ❤️ 名字的由来：纳鲁赛繆·尤梅米·希娜卡纳（Ναρουσέ·μ·γιουμεμί·Χινακάννα），即为希腊语言化的（NaruseMioYumemiShirakana）。其中NaruseShirakana起源于SummerPockets中角色鸣濑白羽（NaruseShiroha），经过翻译梗变为白葉，然后变为白叶（Shirakana）；Yumemi即为星之梦角色星野梦美（HoshinoYumemi）；Mio为自己定义的一个名字。  
+- ❤️ 名字的由来：纳鲁赛繆·尤梅米·希娜卡纳 (Ναρουσέ·μ·γιουμεμί·Χινακάννα)，即为希腊语言化的“NaruseMioYumemiShirakana”。其中NaruseShirakana起源于SummerPockets中角色鸣濑白羽 (NaruseShiroha)，经过翻译梗变为白葉，然后变为白叶 (Shirakana)；Yumemi即为星之梦角色星野梦美 (HoshinoYumemi)；Mio为自己定义的一个名字。  
   
 
 - 📖 我的专业：物理。  
