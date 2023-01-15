@@ -62,7 +62,7 @@
 ## GitHub状态 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaruseMioShirakana&show_icons=true&count_private=true&hide_border=true" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NaruseMioShirakana&show_icons=true&count_private=true&hide_border=true" align="right" width="40%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaruseMioShirakana&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaruseMioShirakana&hide_border=true&layout=compact" align="left" width="40%" />  
 
