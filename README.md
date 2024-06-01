@@ -1,19 +1,10 @@
 ### <div align="center">这里是 纳鲁赛繆 · 尤梅米 · 希娜卡纳</div>  
   
+- ❤️ 这里是 MoeSS/MoeVoiceStudio/LibDlVoiceCodec(LibSvc & LibTTS & LibSvs) 的开发者。其中LibDlVoiceCodec为多个 "Svc/TTS/Svs" 仓库的 C/Cpp/C# Onnx 推理程序仓库以及自研张量库和基于自研张量库的"Svc/TTS/Svs"推理仓库，目前后者正处于开发阶段，而前者已经可以稳定使用；而MoeSS/MoeVoiceStudio则为基于LibDlVoiceCodec开发的UI应用软件，可以比较方便的编辑LibDlVoiceCodec中的参数，以及实现专业歌声合成软件的部分功能。
 
-- ❤️ 名字的由来：纳鲁赛繆·尤梅米·希娜卡纳 (Ναρουσέ·μ·γιουμεμί·Χινακάννα)，即为希腊语言化的“NaruseMioYumemiShirakana”。其中NaruseShirakana起源于SummerPockets中角色鸣濑白羽 (NaruseShiroha)，经过翻译梗变为白葉，然后变为白叶 (Shirakana)；Yumemi即为星之梦角色星野梦美 (HoshinoYumemi)；Mio为自己定义的一个名字。  
-  
+- ✉️ 我的邮箱：shirakanamio@foxmail.com
 
-- 📖 我的专业：物理。  
-  
-
-- ❓ 我的成分：梦美厨，喜欢白羽，Galgame玩家，P社玩家，音乐萌新，绘画萌新，计算机萌新，AI萌新。  
-  
-
-- ⚡ 我的爱好：绘画、音乐。  
-  
-
-- ✉️ 我的邮箱：shirakanamio@foxmail.com  
+- ⚡ 爱发电地址：[纳鲁赛繆 · 尤梅米 · 希娜卡纳](https://afdian.net/a/NaruseMioShirakana)
   
 
 <br/>  
