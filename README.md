@@ -1,4 +1,7 @@
 ### <div align="center">这里是 纳鲁赛繆 · 尤梅米 · 希娜卡纳</div>  
+
+
+- C Like语言开发，张量库开发，人工智能开发
   
 - ✉️ 我的邮箱：shirakanamio@foxmail.com
 
