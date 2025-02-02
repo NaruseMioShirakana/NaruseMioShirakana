@@ -27,6 +27,7 @@
         <a href="https://github.com/NaruseMioShirakana/DragonianLib/blob/master/OnnxLibrary/SingingVoiceConversion/Modules/header/Models/ReflowSvc.hpp" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/40709280?v=4" alt="Onnx-Reflow-Svc" height="50" /></a> 
         <a href="https://github.com/NaruseMioShirakana/DragonianVoice/blob/master/libtts/Modules/Models/header/Tacotron.hpp" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/40709280?v=4" alt="Onnx-Tacotron2" height="50" /></a> 
         <a href="https://github.com/fishaudio/Bert-VITS2" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/122017386" alt="Bert-Vits2" height="50" /></a> 
+        <a href="https://github.com/fishaudio/fish-speech" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/122017386" alt="Bert-Vits2" height="50" /></a> 
         <a href="https://github.com/NaruseMioShirakana/DragonianLib/blob/master/OnnxLibrary/TextToSpeech/Modules/Models/Header/Vits.hpp" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/40709280?v=4" alt="Onnx-Vits-Based-TextToSpeech" height="50" /></a> 
         <a href="https://github.com/RVC-Boss/GPT-SoVITS" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/131328897?s=200&v=4" alt="Gpt-SoVits" height="50" /></a> 
         <a href="https://github.com/NaruseMioShirakana/DragonianLib/blob/master/OnnxLibrary/TextToSpeech/Modules/Models/Header/GPT-SoVits.hpp" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/40709280?v=4" alt="Onnx-Gpt-SoVits" height="50" /></a> 
@@ -52,6 +53,7 @@
 [Onnx-Vits-Based-TextToSpeech](https://github.com/NaruseMioShirakana/DragonianLib/blob/master/OnnxLibrary/TextToSpeech/Modules/Models/Header/Vits.hpp) &emsp;
 [Gpt-SoVits](https://github.com/RVC-Boss/GPT-SoVITS) &emsp;
 [Onnx-Gpt-SoVits](https://github.com/NaruseMioShirakana/DragonianLib/blob/master/OnnxLibrary/TextToSpeech/Modules/Models/Header/GPT-SoVits.hpp) &emsp;
+[Fish-Speech](https://github.com/fishaudio/fish-speech) &emsp;
 
 [Onnx-MusicTranscription](https://github.com/NaruseMioShirakana/DragonianLib/tree/master/OnnxLibrary/MusicTranscription) &emsp;
 [Onnx-SuperResolution](https://github.com/NaruseMioShirakana/DragonianLib/tree/master/OnnxLibrary/SuperResolution)
