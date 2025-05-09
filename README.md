@@ -9,7 +9,7 @@
 
 ✉️ e-mail：shirakanamio@foxmail.com
   
-⚡ Afdian：[NaruseMioShirakana](https://afdian.net/a/NaruseMioShirakana)
+⚡ Afdian：[NaruseMioShirakana](https://afdian.tv/a/NaruseMioShirakana)
 
 </div>
 
