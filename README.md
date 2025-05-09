@@ -1,5 +1,5 @@
-# <div align="center">纳鲁赛繆 · 尤梅米 · 希娜卡纳</div>
-<div align="center"><b>I'm a college student who loves programming</b></div>
+# <div align="center">普莉西娅 · 缪 · 希娜卡纳</div>
+<div align="center"><b>牢普和小特都是我的翅膀（</b></div>
 
 ## <div align="center">Contact</div>
 
